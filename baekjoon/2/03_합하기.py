@@ -4,3 +4,7 @@ for i in N:
     output += int(i)
 
 print(output)
+
+
+n = input()
+print(sum(map(int, input())))
