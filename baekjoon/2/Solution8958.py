@@ -10,12 +10,31 @@
 # 길이가 0보다 크고 80보다 작은 문자열이 주어진다. 문자열은 O와 X 만으로 이루어져 있다.
 
 ## Test cases
-# OOXXOXXOOO
-# OOXXOOXXOO
-# OXOXOXOXOXOXOX
-# OOOOOOOOOO
-# OOOOXOOOOXOOOOX
+# testCase1 = OOXXOXXOOO
+# testCase2 = OOXXOOXXOO
+# testCase3 = OXOXOXOXOXOXOX
+# testCase4 = OOOOOOOOOO
+# testCase5 = OOOOXOOOOXOOOOX
 
 ## 출력
 # 각 테스트 케이스마다 점수를 출력한다.
+def solution():
+    output = 0
+    total = []
+    ox = str(input("테스트케이스 문제: "))
+    # for i in range(ox):
+    for answer in ox:
+        if answer == "O":
+            output += 1
+            total.append(output)
 
+        elif answer == "X":
+            output *= 0
+
+        else:
+            print("잘못 입력하셨습니다.")
+
+    print(sum(total))
+    return sum(total)
+
+solution()
