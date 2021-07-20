@@ -58,8 +58,8 @@ https://haleekyung.notion.site/e4544c65cde14c42ba92d8bbc73211f7
 * 06-2. 예외 고급 - 예외 객체, 구분하기 예외 잡기 (finished)
 
 **6) Chapter07. 모듈 (약 2주)**
-* 07-1. 모듈 
-* 07-2. 외부 모듈
+* 07-1. 모듈 (finished)
+* 07-2. 외부 모듈(finished)
 * 07-3. 모듈 만들기
 
 **7) Chapter08. 클래스 (약 2주)**
