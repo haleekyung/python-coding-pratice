@@ -60,11 +60,11 @@ https://haleekyung.notion.site/e4544c65cde14c42ba92d8bbc73211f7
 **6) Chapter07. 모듈 (약 2주)**
 * 07-1. 모듈 (finished)
 * 07-2. 외부 모듈(finished)
-* 07-3. 모듈 만들기
+* 07-3. 모듈 만들기(finished)
 
 **7) Chapter08. 클래스 (약 2주)**
-* 08-1. 클래스의 기본
-* 08-2. 클래스의 추가적인 구문
+* 08-1. 클래스의 기본(finished)
+* 08-2. 클래스의 추가적인 구문(finished)
 
 ### 02. BaekJoon (2 months)
 백준 코드 (Bronze 3 - Silver 5) 및 solved.ac의 문제를 푸는 방식으로 진행한다. solved.ac의 Bronze - Silver 구간에서 풀 수 있는 문제 중 가장 많이 푼 문제를 위주로 나열하여 문제를 풀 수 있도록 한다. 문제는 Yeo가 내는 것으로 한다.
