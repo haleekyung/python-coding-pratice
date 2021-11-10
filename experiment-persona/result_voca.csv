@@ -1,0 +1,1380 @@
+강동옥,1.0,0.0,Bonjour,Bonjour,Merci,Mersi,métro,métro,0,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,téa,1,0
+,,,,,Non,Non,téléphone,teléphone,1,0
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,texi,1,0
+,,,,,Sortie,Sortié,Excusez-moi,Excuse-moi,0,0
+,,,,,Université,Université,bonheur,bonsoir,1,0
+,,,,,chaise,chaire,auteur,auther,0,0
+,,,,,S'il vous plaît,S'il vous plaît,ail,ile,1,0
+,,,,,maison,maison,saison,saison,1,1
+경정원,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjour,thé,téa,0,0
+,,,,,Non,Non,téléphone,téléphono,1,0
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,cap,1,0
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Universitée,bonheur,bonheur,0,1
+,,,,,chaise,chaire,auteur,authur,0,0
+,,,,,S'il vous plaît,Enchanté,ail,aile,0,0
+,,,,,maison,maison,saison,saison,1,1
+고다영,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphono,1,0
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,mason,saison,saison,0,1
+권상희,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjoir,thé,téa,0,0
+,,,,,Non,Non,téléphone,teléphone,1,0
+,,,,,Café,Café,toilette,toilet,1,0
+,,,,,Entrée,Entré,taxi,taxi,0,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonsoir,1,0
+,,,,,chaise,chaire,auteur,auteur,0,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,aile,1,0
+,,,,,maison,mason,saison,saison,0,1
+권예원,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+권유진,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,verrièru,1,0
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,mettre,jouer,joyeux,1,0
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,allere,tendresse,tenderess,0,0
+,,,,,dire,revir,heureux,bonheur,0,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savior,poubelle,poubelle,0,1
+,,,,,entrée,entrée,cuiller,cutiller,1,0
+,,,,,sourire,savoir,raffine,reffine,0,0
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimentaire,1,1
+,,,,,Bienvenue,Bienvanue,quelque,qualque,0,0
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideue,fraise,fêter,0,0
+,,,,,dérider,dèrider,fêter,fêter,0,1
+,,,,,penser,pensar,bonheur,joyeux,0,0
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,savior,réjouir,féliciter,0,0
+권준혜,4.0,0.0,Bonjour,Bonjoure,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,déguster,joyeux,bonheur,0,0
+,,,,,manger,manger,réconforté,réconforte,1,0
+,,,,,Au revoir,Bonsoir,poisson,poisson,0,1
+,,,,,arbre,arbre,fenêtre,fenêtre,1,1
+,,,,,dormir,dormire,laver,laver,0,1
+,,,,,parler,parler,verrière,verriêru,1,0
+,,,,,mettre,mettree,jouer,joyeux,0,0
+,,,,,sortie,sortia, lisse, lisse,0,1
+,,,,,déguster,savourer,ranger,rangement,0,0
+,,,,,aller,aller,tendresse,tenderese,1,0
+,,,,,dire,revir,heureux,bonheur,0,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savior,poubelle,poubelle,0,1
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,souirre,raffine,reffine,0,0
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimantaire,1,0
+,,,,,Bienvenue,Enchanté,quelque,qualque,0,0
+,,,,,chaise,chaire,féliciter,feliciter,0,0
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dèsunir,fêter,fêter,0,1
+,,,,,penser,pensar,bonheur,bonheur,0,1
+,,,,,savoir,combién,derrière,derrière,0,1
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,savior,réjouir,féliciter,0,0
+권지영,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premièr,1,0
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,feter,1,0
+,,,,,Au revoir,Au revoir,poisson,possion,1,0
+,,,,,arbre,arbre,fenêtre,fenetre,1,0
+,,,,,dormir,domire,laver,laver,0,1
+,,,,,parler,parler,verrière,verrière,1,1
+,,,,,mettre,metrre,jouer,joyeur,0,0
+,,,,,sortie,sortié, lisse,tendresse,0,0
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savoure,poubelle,pubelle,0,0
+,,,,,entrée,entrée,cuiller,cutiller,1,0
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimantaire,0,0
+,,,,,Bienvenue,Enchante,quelque,quelque,0,1
+,,,,,chaise,chaire,féliciter,féliciter,0,1
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,désunir,fêter,bonheur,0,0
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,savior,réjouir,feliciter,0,0
+권혁우,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excuses-moi,premier,premier,0,1
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,fêter,1,0
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenetre,1,0
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,dire,verrière,fenetre,0,0
+,,,,,mettre,mettre,jouer,jouer,1,1
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,dire,heureux,bonheur,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,poubelle,1,1
+,,,,,entrée,entrée,cuiller,cutller,1,0
+,,,,,sourire,souirre,raffine,raffine,0,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Bienvenue,quelque,qualque,1,0
+,,,,,chaise,chaire,féliciter,feliciter,0,0
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dèrider,fêter,fêter,0,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,combién,derrière,verrièru,0,0
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,dire,réjouir,féliciter,0,0
+김건우,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,fêter,1,0
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbru,fenêtre,verrièru,0,0
+,,,,,dormir,dormire,laver,lever,0,0
+,,,,,parler,dire,verrière,verrière,0,1
+,,,,,mettre,mettree,jouer,joyeur,0,0
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,aller,tendresse,tendresse,1,1
+,,,,,dire,dire,heureux,bonheur,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,poubelle,1,1
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,semaine,raffine,refine,0,0
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Enchanté,quelque,qualque,0,0
+,,,,,chaise,chais,féliciter,féliciter,0,1
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,dire,réjouir,feliciter,0,0
+김도은,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenêtre,1,1
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,dire,verrière,fenetre,0,0
+,,,,,mettre,mèttre,jouer,joyeux,0,0
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,déguster,ranger,range,1,0
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,dire,heureux,bonheur,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,poubelle,1,1
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,sourire,raffine,reffine,1,0
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dèrider,fêter,complimenter,0,0
+,,,,,penser,pense,bonheur,bonheur,0,1
+,,,,,savoir,combién,derrière,derrière,0,1
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,savior,réjouir,féliciter,0,0
+김동민,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,salute,poisson,poisson,0,1
+,,,,,arbre,arbre,fenêtre,verrièru,1,0
+,,,,,dormir,dormire,laver,laverr,0,0
+,,,,,parler,revir,verrière,verrière,0,1
+,,,,,mettre,mèttre,jouer,joyeux,0,0
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,savourer,ranger,range,0,0
+,,,,,aller,allere,tendresse,tenderese,0,0
+,,,,,dire,dire,heureux,bonheur,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savoure,poubelle,poubelle,0,1
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,savoir,raffine,raffine,0,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,derrière,0,0
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideue,fraise,fraise,0,1
+,,,,,dérider,désunir,fêter,complimenter,0,0
+,,,,,penser,penser,bonheur,joyeux,1,0
+,,,,,savoir,combién,derrière,avenir,0,0
+,,,,,venir,aller,l'avant,de'rrière,0,0
+,,,,,se dire,se dire,réjouir,féliciter,1,0
+김민정,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Cafée,toilette,toilett,0,0
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Université,bonheur,bonsoir,1,0
+,,,,,chaise,chais,auteur,auteur,0,1
+,,,,,S'il vous plaît,Enchanté,ail,ail,0,1
+,,,,,maison,maison,saison,saison,1,1
+김서현,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Universitée,bonheur,bonheur,0,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+김세령,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforte,1,0
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenêtre,1,1
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,dire,verrière,verrière,0,1
+,,,,,mettre,mettre,jouer,jouer,1,1
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,alle,tendresse,tendresse,0,1
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,pubelle,1,0
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,bonhéur,1,0
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,combién,derrière,derrière,0,1
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,se dire,réjouir,réjouir,1,1
+김세연,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excuze-moi,premier,premier,0,1
+,,,Oui,Oui,connaître,déguster,joyeux,joyeux,0,1
+,,,,,manger,savourer,réconforté,réconforté,0,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenêtre,1,1
+,,,,,dormir,dormir,laver,lever,1,0
+,,,,,parler,revir,verrière,fenetre,0,0
+,,,,,mettre,mèttre,jouer,joyeur,0,0
+,,,,,sortie,sortié, lisse,lissea,0,0
+,,,,,déguster,déguster,ranger,rangement,1,0
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,tard,heureux,bonheur,0,0
+,,,,,Enchanté,Enchanté,chambre,chétare,1,0
+,,,,,savourer,savior,poubelle,bouteille,0,0
+,,,,,entrée,entree,cuiller,cutller,0,0
+,,,,,sourire,savoir,raffine,rafine,0,0
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Bienvanue,quelque,assez,0,0
+,,,,,chaise,chaise,féliciter,bonhéur,1,0
+,,,,,rideau,retrou,fraise,berri,0,0
+,,,,,dérider,dérider,fêter,complimenter,1,0
+,,,,,penser,pensar,bonheur,joyeux,0,0
+,,,,,savoir,combién,derrière,derrière,0,1
+,,,,,venir,allar,l'avant,l'avant,0,1
+,,,,,se dire,savior,réjouir,féliciter,0,0
+김승원,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+김옥주,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-me,1,0
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+김윤주,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenêtre,1,1
+,,,,,dormir,domir,laver,laver,0,1
+,,,,,parler,parler,verrière,verrière,1,1
+,,,,,mettre,mettre,jouer,jouer,1,1
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,aller,tendresse,tendresse,1,1
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,poubelle,1,1
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,pense,bonheur,bonheur,0,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,se dire,réjouir,réjouir,1,1
+김은빈,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenêtre,1,1
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,dire,verrière,fenetre,0,0
+,,,,,mettre,mèttre,jouer,joyeux,0,0
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,aller,tendresse,tendresse,1,1
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,pubelle,1,0
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimentaire,1,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,bonhéur,1,0
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,désunir,fêter,fêter,0,1
+,,,,,penser,pensar,bonheur,bonheur,0,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,se dire,réjouir,réjouir,1,1
+김정윤,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,bientet,poisson,possion,0,0
+,,,,,arbre,arbru,fenêtre,fenêtre,0,1
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,revir,verrière,fenetre,0,0
+,,,,,mettre,metrre,jouer,jardin,0,0
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,savourer,ranger,déposer,0,0
+,,,,,aller,alle,tendresse,tenderese,0,0
+,,,,,dire,dire,heureux,joyeux,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savior,poubelle,poubelle,0,1
+,,,,,entrée,entrée,cuiller,cutiller,1,0
+,,,,,sourire,souirre,raffine,raffine,0,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,derrière,1,0
+,,,,,Bienvenue,Enchanté,quelque,quelque,0,1
+,,,,,chaise,chaire,féliciter,féliciter,0,1
+,,,,,rideau,retrou,fraise,verry,0,0
+,,,,,dérider,désunir,fêter,bonheur,0,0
+,,,,,penser,penser,bonheur,joyeux,1,0
+,,,,,savoir,combién,derrière,derrière,0,1
+,,,,,venir,vénir,l'avant,l'avant,0,1
+,,,,,se dire,se dire,réjouir,réjouir,1,1
+김현정,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,déguster,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,possion,1,0
+,,,,,arbre,aller,fenêtre,fenêtre,0,1
+,,,,,dormir,domir,laver,laver,0,1
+,,,,,parler,dire,verrière,verrière,0,1
+,,,,,mettre,mèttre,jouer,jouer,0,1
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,bouteille,1,0
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,savoir,raffine,rafine,0,0
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,derrière,1,0
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dèsunir,fêter,fêter,0,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,dire,réjouir,réjouir,0,1
+나성균,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,première,1,0
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,savourer,réconforté,réconforte,0,0
+,,,,,Au revoir,Au revoir,poisson,possioun,1,0
+,,,,,arbre,arbru,fenêtre,fenêtre,0,1
+,,,,,dormir,domir,laver,laverr,0,0
+,,,,,parler,revir,verrière,verriêru,0,0
+,,,,,mettre,mèttre,jouer,jardin,0,0
+,,,,,sortie,sortiée, lisse, lisse,0,1
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,allere,tendresse,tendresse,0,1
+,,,,,dire,demain,heureux,heureux,0,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savoure,poubelle,bouteille,0,0
+,,,,,entrée,entrée,cuiller,cutller,1,0
+,,,,,sourire,semaine,raffine,raffine,0,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,derrière,0,0
+,,,,,Bienvenue,Bienvenue,quelque,qualque,1,0
+,,,,,chaise,chaise,féliciter,bonheur,1,0
+,,,,,rideau,rideue,fraise,fraise,0,1
+,,,,,dérider,dèsunir,fêter,complimenter,0,0
+,,,,,penser,penser,bonheur,joyeux,1,0
+,,,,,savoir,combién,derrière,verrièru,0,0
+,,,,,venir,aller,l'avant,de'rrière,0,0
+,,,,,se dire,se dire,réjouir,réjouir,1,1
+남지은,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,déguster,joyeux,joyeux,0,1
+,,,,,manger,déguster,réconforté,réconforte,0,0
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenetre,1,0
+,,,,,dormir,domire,laver,le leaver,0,0
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,mèttre,jouer,jouer,0,1
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,savourer,ranger,range,0,0
+,,,,,aller,alle,tendresse,tenderese,0,0
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savoure,poubelle,poubelle,0,1
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimentaire,1,1
+,,,,,Bienvenue,Bienvenue,quelque,qualque,1,0
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rouver,fraise,fraise,0,1
+,,,,,dérider,dèrider,fêter,fêter,0,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,tard,derrière,derrière,0,1
+,,,,,venir,vénir,l'avant,l'avant,0,1
+,,,,,se dire,se dire,réjouir,feliciter,1,0
+남훈균,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenêtre,1,1
+,,,,,dormir,domir,laver,laver,0,1
+,,,,,parler,dire,verrière,fenetre,0,0
+,,,,,mettre,mettre,jouer,jouer,1,1
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,aller,tendresse,tendresse,1,1
+,,,,,dire,revir,heureux,heureux,0,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,bouteille,1,0
+,,,,,entrée,entrée,cuiller,cutiller,1,0
+,,,,,sourire,souirre,raffine,raffine,0,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Enchanté,quelque,quelque,0,1
+,,,,,chaise,chaise,féliciter,bonheur,1,0
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,désunir,fêter,complimenter,0,0
+,,,,,penser,penser,bonheur,jouissance,1,0
+,,,,,savoir,combien,derrière,derrière,0,1
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,sortie,réjouir,rejouir,0,0
+동희주,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+민성환,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+박미영,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excuse-moi,1,0
+,,,,,Université,Universite,bonheur,bonheur,0,1
+,,,,,chaise,chaire,auteur,auther,0,0
+,,,,,S'il vous plaît,S'il vous plaît,ail,aile,1,0
+,,,,,maison,maison,saison,saison,1,1
+박은희,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,aller,fenêtre,verriêru,0,0
+,,,,,dormir,dormir,laver,laverr,1,0
+,,,,,parler,dire,verrière,verriêru,0,0
+,,,,,mettre,mettre,jouer,joyeux,1,0
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,savourer,ranger,range,0,0
+,,,,,aller,aller,tendresse,tenderese,1,0
+,,,,,dire,dire,heureux,bonheur,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savoure,poubelle,bouteille,0,0
+,,,,,entrée,entree,cuiller,cutiller,0,0
+,,,,,sourire,savoir,raffine,raffine,0,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimentaire,1,1
+,,,,,Bienvenue,Bienvanue,quelque,quelque,0,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideue,fraise,fraise,0,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,pense,bonheur,bonheur,0,1
+,,,,,savoir,combién,derrière,derrière,0,1
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,se dire,réjouir,féliciter,1,0
+배승환,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+배혜진,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,metro,1,0
+,,,Oui,Oui,Bonsoir,Bonjoir,thé,thé,0,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilet,1,0
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excuse-moi,1,0
+,,,,,Université,Universite,bonheur,bonheur,0,1
+,,,,,chaise,chaire,auteur,auteur,0,1
+,,,,,S'il vous plaît,Au revoir,ail,ail,0,1
+,,,,,maison,maison,saison,saison,1,1
+베준호,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,déguster,joyeux,joyeux,0,1
+,,,,,manger,savourer,réconforté,réconforté,0,1
+,,,,,Au revoir,salute,poisson,poisson,0,1
+,,,,,arbre,neigu,fenêtre,fenêtre,0,1
+,,,,,dormir,domire,laver,laver,0,1
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,metrre,jouer,jouer,0,1
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,savourer,ranger,range,0,0
+,,,,,aller,alle,tendresse,tenderess,0,0
+,,,,,dire,demain,heureux,bonheur,0,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savior,poubelle,pubelle,0,0
+,,,,,entrée,entrée,cuiller,cutller,1,0
+,,,,,sourire,savoir,raffine,raffine,0,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,feliciter,1,0
+,,,,,rideau,rouver,fraise,fraise,0,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,pensar,bonheur,bonheur,0,1
+,,,,,savoir,combién,derrière,avenir,0,0
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,dire,réjouir,féliciter,0,0
+변혜성,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premièr,1,0
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforte,1,0
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,verrièru,1,0
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,mettre,jouer,joyeur,1,0
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,dire,heureux,joyeux,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,poubelle,1,1
+,,,,,entrée,entrée,cuiller,cutller,1,0
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,derrière,1,0
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,bonheur,1,0
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,venir,l'avant,lavant,1,0
+,,,,,se dire,se dire,réjouir,féliciter,1,0
+손민서,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonher,1,0
+,,,,,chaise,chaise,auteur,authur,1,0
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saision,1,0
+송유진,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjour,thé,thé,0,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+송채영,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premièr,1,0
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,déguster,réconforté,réconforté,0,1
+,,,,,Au revoir,Au revoir,poisson,poison,1,0
+,,,,,arbre,neigu,fenêtre,verrièru,0,0
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,parler,verrière,verrière,1,1
+,,,,,mettre,mèttre,jouer,jouer,0,1
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,aller,tendresse,tenderese,1,0
+,,,,,dire,dire,heureux,joyeux,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savior,poubelle,poubelle,0,1
+,,,,,entrée,entrée,cuiller,cutiller,1,0
+,,,,,sourire,savoir,raffine,reffine,0,0
+,,,,,S'il vous plaît,S'il vos plaît,alimentaire,derrière,0,0
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaire,féliciter,feliciter,0,0
+,,,,,rideau,rideue,fraise,berri,0,0
+,,,,,dérider,dèrider,fêter,fêter,0,1
+,,,,,penser,pense,bonheur,bonheur,0,1
+,,,,,savoir,savoir,derrière,verrièru,1,0
+,,,,,venir,venir,l'avant,lavant,1,0
+,,,,,se dire,savior,réjouir,feliciter,0,0
+신정용,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjour,thé,thé,0,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaire,auteur,auteur,0,1
+,,,,,S'il vous plaît,Au revoir,ail,ail,0,1
+,,,,,maison,maison,saison,saison,1,1
+안준혁,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,metro,1,0
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Cafée,toilette,toilette,0,1
+,,,,,Entrée,Entré,taxi,taxi,0,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Universitée,bonheur,bonheur,0,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,Enchanté,ail,ail,0,1
+,,,,,maison,maison,saison,saison,1,1
+양시하,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbru,fenêtre,fenêtre,0,1
+,,,,,dormir,dormir,laver,laverr,1,0
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,mèttre,jouer,jouer,0,1
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,aller,tendresse,tendresse,1,1
+,,,,,dire,revir,heureux,heureux,0,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savior,poubelle,poubelle,0,1
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimentaire,1,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rouver,fraise,fraise,0,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,tard,derrière,derrière,0,1
+,,,,,venir,venir,l'avant,l'avant,1,1
+,,,,,se dire,savior,réjouir,rejouir,0,0
+여승협,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+오재영,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilett,1,0
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortié,Excusez-moi,Excuse-moi,0,0
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+원희수,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilett,1,0
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Universitée,bonheur,bonheur,0,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+유성준,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,savourer,réconforté,réconforte,0,0
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,verrièru,1,0
+,,,,,dormir,domire,laver,laver,0,1
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,mettre,jouer,joyeur,1,0
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,manger,ranger,ranger,0,1
+,,,,,aller,allere,tendresse,tendresse,0,1
+,,,,,dire,dire,heureux,bonheur,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,poubelle,1,1
+,,,,,entrée,entrée,cuiller,culler,1,0
+,,,,,sourire,savoir,raffine,raffine,0,1
+,,,,,S'il vous plaît,S'il vos plaît,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dèrider,fêter,fêter,0,1
+,,,,,penser,penser,bonheur,joyeux,1,0
+,,,,,savoir,tard,derrière,derrière,0,1
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,se dire,réjouir,rejouir,1,0
+유수,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjour,thé,thé,0,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entré,taxi,taxi,0,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+유진영,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excuze-moi,premier,premier,0,1
+,,,Oui,Oui,connaître,penser,joyeux,praise,0,0
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,verrièru,1,0
+,,,,,dormir,domire,laver,lever,0,0
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,mèttre,jouer,joyeux,0,0
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,déguster,ranger,range,1,0
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,demain,heureux,bonheur,0,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savior,poubelle,pubelle,0,0
+,,,,,entrée,entrée,cuiller,cutiller,1,0
+,,,,,sourire,sourire,raffine,refine,1,0
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,derrière,1,0
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,retrou,fraise,fraise,0,1
+,,,,,dérider,désunir,fêter,fêter,0,1
+,,,,,penser,penser,bonheur,plaisir,1,0
+,,,,,savoir,combién,derrière,verrièru,0,0
+,,,,,venir,vénir,l'avant,l'avant,0,1
+,,,,,se dire,dire,réjouir,réjouir,0,1
+유혜라,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auther,1,0
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+윤소연 ,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjour,thé,thé,0,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entré,taxi,taxi,0,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaire,auteur,auther,0,0
+,,,,,S'il vous plaît,Au revoir,ail,aile,0,0
+,,,,,maison,maison,saison,saision,1,0
+이다은,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,réconforte,1,0
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,verriêru,1,0
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,dire,verrière,verriêru,0,0
+,,,,,mettre,mèttre,jouer,joyeur,0,0
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,savourer,ranger,rangement,0,0
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,dire,heureux,joyeux,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savoure,poubelle,poubelle,0,1
+,,,,,entrée,entrée,cuiller,cutiller,1,0
+,,,,,sourire,sourire,raffine,refine,1,0
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,derriere,0,0
+,,,,,Bienvenue,Bienvenue,quelque,assez,1,0
+,,,,,chaise,chaise,féliciter,feliciter,1,0
+,,,,,rideau,retrou,fraise,berri,0,0
+,,,,,dérider,dèrider,fêter,complimenter,0,0
+,,,,,penser,pensar,bonheur,joyeux,0,0
+,,,,,savoir,combién,derrière,avenir,0,0
+,,,,,venir,aller,l'avant,derrière,0,0
+,,,,,se dire,se dire,réjouir,rejouir,1,0
+이동엽,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbru,fenêtre,fenêtre,0,1
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,dire,verrière,verrière,0,1
+,,,,,mettre,mèttre,jouer,jouer,0,1
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,aller,tendresse,tendresse,1,1
+,,,,,dire,revir,heureux,heureux,0,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,poubelle,1,1
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,sourire,raffine,reffine,1,0
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Enchanté,quelque,quelque,0,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,savior,réjouir,réjouir,0,1
+이문수,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjour,thé,thé,0,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+이소영,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilet,1,0
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+이송은,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,savourer,réconforté,réconforte,0,0
+,,,,,Au revoir,bientet,poisson,possioun,0,0
+,,,,,arbre,arbre,fenêtre,fenetre,1,0
+,,,,,dormir,dormire,laver,laver,0,1
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,mèttre,jouer,joyeux,0,0
+,,,,,sortie,sortié, lisse,tendresse,0,0
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,alle,tendresse,tenderess,0,0
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,bouteille,1,0
+,,,,,entrée,entrée,cuiller,culler,1,0
+,,,,,sourire,souirre,raffine,raffine,0,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Enchanté,quelque,assez,0,0
+,,,,,chaise,chaire,féliciter,feliciter,0,0
+,,,,,rideau,rideau,fraise,berri,1,0
+,,,,,dérider,dèrider,fêter,bonheur,0,0
+,,,,,penser,pense,bonheur,plaisir,0,0
+,,,,,savoir,combién,derrière,derrière,0,1
+,,,,,venir,vénir,l'avant,derrière,0,0
+,,,,,se dire,se dire,réjouir,réjouir,1,1
+이승재,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,déguster,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,réconforte,1,0
+,,,,,Au revoir,salute,poisson,poisson,0,1
+,,,,,arbre,arbru,fenêtre,fenêtre,0,1
+,,,,,dormir,domire,laver,laver,0,1
+,,,,,parler,parler,verrière,verrière,1,1
+,,,,,mettre,mettre,jouer,joyeux,1,0
+,,,,,sortie,sortié, lisse,tendresse,0,0
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,revir,heureux,heureux,0,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,pubelle,1,0
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimantaire,0,0
+,,,,,Bienvenue,Enchanté,quelque,quelque,0,1
+,,,,,chaise,chaire,féliciter,féliciter,0,1
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,combién,derrière,derrière,0,1
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,savior,réjouir,féliciter,0,0
+이시형,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,bientet,poisson,poisson,0,1
+,,,,,arbre,arbru,fenêtre,verrièru,0,0
+,,,,,dormir,dormire,laver,laverr,0,0
+,,,,,parler,dire,verrière,verrière,0,1
+,,,,,mettre,mettre,jouer,joyeur,1,0
+,,,,,sortie,sortiée, lisse,tendresse,0,0
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,aller,tendresse,tendrasse,1,0
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savior,poubelle,pubelle,0,0
+,,,,,entrée,entrée,cuiller,cutller,1,0
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimentaire,1,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,retrou,fraise,fraise,0,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,prais,bonheur,bonheur,0,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,vénir,l'avant,derrière,0,0
+,,,,,se dire,se dire,réjouir,feliciter,1,0
+이정아,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,première,1,0
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforte,1,0
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenêtre,1,1
+,,,,,dormir,domire,laver,laver,0,1
+,,,,,parler,parler,verrière,verrière,1,1
+,,,,,mettre,mettre,jouer,jouer,1,1
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,déguster,ranger,déposer,1,0
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,dire,heureux,bonheur,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savoure,poubelle,poubelle,0,1
+,,,,,entrée,entrée,cuiller,cutiller,1,0
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimantaire,0,0
+,,,,,Bienvenue,Enchanté,quelque,quelque,0,1
+,,,,,chaise,chaise,féliciter,bonhéur,1,0
+,,,,,rideau,rouver,fraise,fraise,0,1
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,sortie,réjouir,réjouir,0,1
+이정윤,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excues-moi,premier,premier,0,1
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,verrièru,1,0
+,,,,,dormir,domire,laver,laver,0,1
+,,,,,parler,parler,verrière,verrière,1,1
+,,,,,mettre,mèttre,jouer,jouer,0,1
+,,,,,sortie,sortie, lisse, lisse,1,1
+,,,,,déguster,déguster,ranger,ranger,1,1
+,,,,,aller,aller,tendresse,tenderese,1,0
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,bouteille,1,0
+,,,,,entrée,entree,cuiller,cutiller,0,0
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,Excuse-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Enchanté,quelque,qualque,0,0
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dèrider,fêter,joyeux,0,0
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,se dire,réjouir,réjouir,1,1
+이준병,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphono,1,0
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entré,taxi,taxi,0,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Universite,bonheur,bonheur,0,1
+,,,,,chaise,chaire,auteur,auteur,0,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+이준헌,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,savourer,réconforté,réconforté,0,1
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,aller,fenêtre,verrièru,0,0
+,,,,,dormir,dormir,laver,laverr,1,0
+,,,,,parler,dire,verrière,verrière,0,1
+,,,,,mettre,mettre,jouer,jouer,1,1
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,déguster,ranger,range,1,0
+,,,,,aller,aller,tendresse,tendresse,1,1
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,poubelle,1,1
+,,,,,entrée,entrée,cuiller,culler,1,0
+,,,,,sourire,savoir,raffine,raffine,0,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimantaire,1,0
+,,,,,Bienvenue,Bienvenue,quelque,qualque,1,0
+,,,,,chaise,chaise,féliciter,bonhéur,1,0
+,,,,,rideau,rideue,fraise,fraise,0,1
+,,,,,dérider,dérider,fêter,complimenter,1,0
+,,,,,penser,penser,bonheur,jouissance,1,0
+,,,,,savoir,combién,derrière,derrière,0,1
+,,,,,venir,aller,l'avant,l'avant,0,1
+,,,,,se dire,se dire,réjouir,réjouir,1,1
+이지현,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilet,1,0
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+이하늘,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,teléphone,1,0
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+이현선,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excuze-moi,premier,fraise,0,0
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,déguster,réconforté,réconforté,0,1
+,,,,,Au revoir,Bonsoir,poisson,poison,0,0
+,,,,,arbre,aller,fenêtre,verriêru,0,0
+,,,,,dormir,domir,laver,laver,0,1
+,,,,,parler,dire,verrière,verriêru,0,0
+,,,,,mettre,mettre,jouer,jardin,1,0
+,,,,,sortie,sortie, lisse,tendresse,1,0
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,aller,tendresse,tenderese,1,0
+,,,,,dire,revir,heureux,joyeux,0,0
+,,,,,Enchanté,Enchante,chambre,chambre,0,1
+,,,,,savourer,savior,poubelle,poubelle,0,1
+,,,,,entrée,entree,cuiller,cutller,0,0
+,,,,,sourire,savoir,raffine,raffine,0,1
+,,,,,S'il vous plaît,S'il vos plaît,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,féliciter,1,1
+,,,,,rideau,rideue,fraise,fêter,0,0
+,,,,,dérider,dèrider,fêter,complimenter,0,0
+,,,,,penser,prais,bonheur,jouissance,0,0
+,,,,,savoir,combién,derrière,verrièru,0,0
+,,,,,venir,venir,l'avant,lavant,1,0
+,,,,,se dire,sortie,réjouir,réjouir,0,1
+임규,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Universite,bonheur,bonheur,0,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+임예림,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Universitée,bonheur,bonheur,0,1
+,,,,,chaise,chaire,auteur,auteur,0,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+임주희,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjoir,thé,téa,0,0
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Universitée,bonheur,bonher,0,0
+,,,,,chaise,chaire,auteur,authur,0,0
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,season,1,0
+임채린,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaire,auteur,auteur,0,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+장혜이,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,déguster,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,Au revoir,poisson,possion,1,0
+,,,,,arbre,aller,fenêtre,fenetre,0,0
+,,,,,dormir,dormir,laver,laver,1,1
+,,,,,parler,parler,verrière,verriêru,1,0
+,,,,,mettre,mèttre,jouer,joyeux,0,0
+,,,,,sortie,sortiée, lisse,tendresse,0,0
+,,,,,déguster,penser,ranger,déposer,0,0
+,,,,,aller,aller,tendresse,tenderese,1,0
+,,,,,dire,dire,heureux,bonheur,1,0
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savior,poubelle,poubelle,0,1
+,,,,,entrée,entree,cuiller,cuiller,0,1
+,,,,,sourire,savoir,raffine,reffine,0,0
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimentaire,1,1
+,,,,,Bienvenue,Bienvanue,quelque,quelque,0,1
+,,,,,chaise,chaire,féliciter,bonheur,0,0
+,,,,,rideau,rouver,fraise,fraise,0,1
+,,,,,dérider,dèrider,fêter,bonheur,0,0
+,,,,,penser,pense,bonheur,bonheur,0,1
+,,,,,savoir,savoir,derrière,derrière,1,1
+,,,,,venir,vénir,l'avant,l'avant,0,1
+,,,,,se dire,se dire,réjouir,féliciter,1,0
+정예은,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Cafée,toilette,toilette,0,1
+,,,,,Entrée,Entrée,taxi,texi,1,0
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+정유진,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,authur,1,0
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+정하림,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excues-moi,premier,premièr,0,0
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,déguster,réconforté,réconforte,0,0
+,,,,,Au revoir,Bonsoir,poisson,possion,0,0
+,,,,,arbre,arbre,fenêtre,verrièru,1,0
+,,,,,dormir,domire,laver,laver,0,1
+,,,,,parler,revir,verrière,verrière,0,1
+,,,,,mettre,mèttre,jouer,jouer,0,1
+,,,,,sortie,sortié, lisse,tendresse,0,0
+,,,,,déguster,savourer,ranger,rangement,0,0
+,,,,,aller,aller,tendresse,tenderese,1,0
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,derrière,1,0
+,,,,,savourer,savoure,poubelle,pubelle,0,0
+,,,,,entrée,entrée,cuiller,cuiller,1,1
+,,,,,sourire,semaine,raffine,raffine,0,1
+,,,,,S'il vous plaît,Excuse-moi,alimentaire,alimantaire,0,0
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaise,féliciter,feliciter,1,0
+,,,,,rideau,rouver,fraise,verry,0,0
+,,,,,dérider,désunir,fêter,complimenter,0,0
+,,,,,penser,pensar,bonheur,bonheur,0,1
+,,,,,savoir,tard,derrière,avenir,0,0
+,,,,,venir,venir,l'avant,derrière,1,0
+,,,,,se dire,sortie,réjouir,réjouir,0,1
+조아람,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjoir,thé,thé,0,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Cafée,toilette,toilette,0,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Universitée,bonheur,bonheur,0,1
+,,,,,chaise,chaire,auteur,auther,0,0
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+조영일,4.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,fraise,1,0
+,,,Oui,Oui,connaître,connaître,joyeux,praise,1,0
+,,,,,manger,manger,réconforté,réconforte,1,0
+,,,,,Au revoir,Bonsoir,poisson,possion,0,0
+,,,,,arbre,neigu,fenêtre,fenetre,0,0
+,,,,,dormir,dormir,laver,le leaver,1,0
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,mettree,jouer,jardin,0,0
+,,,,,sortie,sortia, lisse,tendresse,0,0
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,alle,tendresse,tenderese,0,0
+,,,,,dire,tard,heureux,joyeux,0,0
+,,,,,Enchanté,Enchantéda,chambre,rideau,0,0
+,,,,,savourer,savourer,poubelle,bouteille,1,0
+,,,,,entrée,entree,cuiller,culler,0,0
+,,,,,sourire,semaine,raffine,raffine,0,1
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Bienvenue,quelque,qualque,1,0
+,,,,,chaise,chaise,féliciter,bonheur,1,0
+,,,,,rideau,rideue,fraise,verry,0,0
+,,,,,dérider,dérider,fêter,fêter,1,1
+,,,,,penser,pense,bonheur,joyeux,0,0
+,,,,,savoir,combién,derrière,arrière,0,0
+,,,,,venir,vénir,l'avant,derrière,0,0
+,,,,,se dire,se dire,réjouir,féliciter,1,0
+지영우,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,metro,1,0
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+차주형,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,combien,joyeux,joyeux,0,1
+,,,,,manger,savourer,réconforté,réconforté,0,1
+,,,,,Au revoir,Bonsoir,poisson,poisson,0,1
+,,,,,arbre,arbru,fenêtre,verrièru,0,0
+,,,,,dormir,domire,laver,laver,0,1
+,,,,,parler,dire,verrière,verriêru,0,0
+,,,,,mettre,mettree,jouer,joyeur,0,0
+,,,,,sortie,sortié, lisse,tendresse,0,0
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,allere,tendresse,tendresse,0,1
+,,,,,dire,revir,heureux,joyuex,0,0
+,,,,,Enchanté,Enchante,chambre,chambre,0,1
+,,,,,savourer,savior,poubelle,pubelle,0,0
+,,,,,entrée,entree,cuiller,cutiller,0,0
+,,,,,sourire,semaine,raffine,reffine,0,0
+,,,,,S'il vous plaît,Excusez-moi,alimentaire,alimentaire,0,1
+,,,,,Bienvenue,Enchanté,quelque,qualque,0,0
+,,,,,chaise,chaise,féliciter,bonhéur,1,0
+,,,,,rideau,rideue,fraise,fraise,0,1
+,,,,,dérider,désunir,fêter,complimenter,0,0
+,,,,,penser,penser,bonheur,joyeux,1,0
+,,,,,savoir,tard,derrière,arrière,0,0
+,,,,,venir,vénir,l'avant,derrière,0,0
+,,,,,se dire,dire,réjouir,rejouir,0,0
+채유진,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonjour,thé,thé,0,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+천세연,2.0,0.0,Bonjour,Bonjour,Excusez-moi,Excusez-moi,premier,premier,1,1
+,,,Oui,Oui,connaître,penser,joyeux,joyeux,0,1
+,,,,,manger,manger,réconforté,feter,1,0
+,,,,,Au revoir,Au revoir,poisson,poisson,1,1
+,,,,,arbre,arbre,fenêtre,fenêtre,1,1
+,,,,,dormir,domire,laver,laver,0,1
+,,,,,parler,parler,verrière,fenetre,1,0
+,,,,,mettre,mettre,jouer,jouer,1,1
+,,,,,sortie,sortie, lisse,tendresse,1,0
+,,,,,déguster,déguster,ranger,range,1,0
+,,,,,aller,aller,tendresse,tenderess,1,0
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savourer,poubelle,bouteille,1,0
+,,,,,entrée,entree,cuiller,cuiller,0,1
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimentaire,1,1
+,,,,,Bienvenue,Bienvenue,quelque,quelque,1,1
+,,,,,chaise,chaire,féliciter,bonhéur,0,0
+,,,,,rideau,rideau,fraise,fraise,1,1
+,,,,,dérider,dérider,fêter,complimenter,1,0
+,,,,,penser,penser,bonheur,bonheur,1,1
+,,,,,savoir,savoir,derrière,avenir,1,0
+,,,,,venir,vénir,l'avant,derrière,0,0
+,,,,,se dire,sortie,réjouir,rejouir,0,0
+최단비,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+허진아,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortié,Excusez-moi,Excusez-moi,0,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+홍다희,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
+홍석준,3.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,tea,1,0
+,,,,,Non,Non,téléphone,teléphone,1,0
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excuse-moi,1,0
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,aile,1,0
+,,,,,maison,maison,saison,saison,1,1
+홍정욱,,,,,,,,,0,0
+,,,Oui,Oui,connaître,connaître,joyeux,joyeux,1,1
+,,,,,manger,manger,réconforté,réconforté,1,1
+,,,,,Au revoir,salute,poisson,poisson,0,1
+,,,,,arbre,arbre,fenêtre,verriêru,1,0
+,,,,,dormir,dormir,laver,laverr,1,0
+,,,,,parler,parler,verrière,verrière,1,1
+,,,,,mettre,mettree,jouer,joyeur,0,0
+,,,,,sortie,sortié, lisse, lisse,0,1
+,,,,,déguster,savourer,ranger,ranger,0,1
+,,,,,aller,allere,tendresse,tendresse,0,1
+,,,,,dire,dire,heureux,heureux,1,1
+,,,,,Enchanté,Enchanté,chambre,chambre,1,1
+,,,,,savourer,savoure,poubelle,pubelle,0,0
+,,,,,entrée,entrée,cuiller,cutiller,1,0
+,,,,,sourire,sourire,raffine,raffine,1,1
+,,,,,S'il vous plaît,S'il vous plaît,alimentaire,alimentaire,1,1
+,,,,,Bienvenue,Enchante,quelque,quelque,0,1
+,,,,,chaise,chaire,féliciter,bonheur,0,0
+,,,,,rideau,rouver,fraise,fraise,0,1
+,,,,,dérider,désunir,fêter,fêter,0,1
+,,,,,penser,penser,bonheur,joyeux,1,0
+,,,,,savoir,combién,derrière,verrièru,0,0
+,,,,,venir,vénir,l'avant,derrière,0,0
+,,,,,se dire,dire,réjouir,réjouir,0,1
+홍현기,1.0,0.0,Bonjour,Bonjour,Merci,Merci,métro,métro,1,1
+,,,Oui,Oui,Bonsoir,Bonsoir,thé,thé,1,1
+,,,,,Non,Non,téléphone,téléphone,1,1
+,,,,,Café,Café,toilette,toilette,1,1
+,,,,,Entrée,Entrée,taxi,taxi,1,1
+,,,,,Sortie,Sortie,Excusez-moi,Excusez-moi,1,1
+,,,,,Université,Université,bonheur,bonheur,1,1
+,,,,,chaise,chaise,auteur,auteur,1,1
+,,,,,S'il vous plaît,S'il vous plaît,ail,ail,1,1
+,,,,,maison,maison,saison,saison,1,1
